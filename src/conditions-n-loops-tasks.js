@@ -435,7 +435,6 @@ function sortByAsc(arr) {
   }
 
   const ans = mySort(arr);
-  console.log(ans, arr);
   return ans;
 }
 
